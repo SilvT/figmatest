@@ -87,6 +87,10 @@
       "Neutral-0-A70": {
         "value": "#ffffffb3",
         "type": "color"
+      },
+      "A0": {
+        "value": "#ffffff00",
+        "type": "color"
       }
     },
     "Red": {
@@ -457,15 +461,6 @@
     "Regular": {
       "value": "Regular",
       "type": "fontWeights"
-    },
-    "A0": {
-      "value": "#ffffff00",
-      "type": "color"
-    },
-    "Gradient background-copy": {
-      "value": "radial-gradient(142.26% 141.42% at 100% 0%, rgba(29, 109, 195, 0.15) 0%, #FFF 85%)",
-      "type": "color",
-      "description": "Always displayed over a fill of full opacity #FFF"
     },
     "lineHeights": {
       "0": {
